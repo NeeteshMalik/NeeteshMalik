@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeeteshMalik
 - 👀 I’m interested in ...Fitness,Programming,Gaming
-- 🌱 I’m currently learning ...Advance Python
+- 🌱 I’m currently learning ...NLP, AI Agents
 - 💞️ I’m looking to collaborate on ...Open Source Projects
 - 📫 How to reach me ...Instagram:- neetesh_malik
 
